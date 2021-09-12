@@ -48,7 +48,6 @@ remote_theme: mmistakes/minimal-mistakes
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-layout: splash
 
 # Plugins (previously gems:)
 plugins:
