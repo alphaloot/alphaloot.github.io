@@ -60,8 +60,6 @@ plugins:
   - jekyll-include-cache
 
 
-header:
-  image: /assets/images/banner.png
 
 
 # author:
