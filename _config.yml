@@ -62,17 +62,17 @@ header:
   image: /assets/images/banner.png
 
 
-author:
-  name   : "AlphaLoot"
-  avatar : "/assets/images/logo.png"
-  bio    : "Alpha Loot is a randomized set of alphabets generated and stored on chain."
-  links:
-    - label: "OpenSea"
-      icon: "fas fa-fw fa-link"
-      url: "https://opensea.io/collection/alpha-loot-real"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/alphaLootReal"
+# author:
+#   name   : "AlphaLoot"
+#   avatar : "/assets/images/logo.png"
+#   bio    : "Alpha Loot is a randomized set of alphabets generated and stored on chain."
+#   links:
+#     - label: "OpenSea"
+#       icon: "fas fa-fw fa-link"
+#       url: "https://opensea.io/collection/alpha-loot-real"
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/alphaLootReal"
 
 
 # defaults:
