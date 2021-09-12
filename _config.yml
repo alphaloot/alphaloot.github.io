@@ -57,9 +57,9 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
+author:default
   name   : "AlphaLoot"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/logo.png"
   bio    : "Alpha Loot is a randomized set of alphabets generated and stored on chain. Stats, images, and other functionality are intentionally omitted for others to interpret. Feel free to use Alpha Loot in any way you want."
   links:
     - label: "OpenSea"
