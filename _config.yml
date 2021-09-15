@@ -105,4 +105,7 @@ defaults:
 
 
 header: 
-  teaser: /assets/images/banner.png
+  teaser: "/assets/images/banner.png"
+
+logo: "/assets/images/logo.png"
+
