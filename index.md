@@ -26,7 +26,7 @@ gallery:
 Alpha Loot is an NFT project with randomized set of alphabets generated and stored on chain.
 {: .text-center}
 
-[Twitter](https://twitter.com/alphaLootReal){: .btn .btn--inverse}
+[OpenSea](https://opensea.io/collection/alpha-loot-real){: .btn .btn--inverse}   [Twitter](https://twitter.com/alphaLootReal){: .btn .btn--inverse}    [Contract](https://etherscan.io/address/0x639e32e530cc856b015560573aea34be6cc14d2){: .btn .btn--inverse}
 {: .text-center}
 
 Example sets: 
