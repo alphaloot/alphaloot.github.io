@@ -1,6 +1,6 @@
 ---
 
-layout: single
+layout: splash
 author_profile: true
 # header: 
 #   image: /assets/images/banner.png
@@ -28,4 +28,4 @@ Example sets:
 
 {% include gallery caption="" %}
 
-![image-center](/assets/images/examples/1.png){: .align-center}
+# ![image-center](/assets/images/examples/1.png){: .align-center}
