@@ -20,10 +20,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
+twitter_username: alphalootREAL
 github_username: username
 minimal_mistakes_skin: neon
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -34,8 +34,8 @@ remote_theme: mmistakes/minimal-mistakes
 # paginate_path: /page:num/
 # timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-# include:
-#   - _pages
+include:
+  - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -105,17 +105,17 @@ defaults:
 
 
 header: 
-  teaser: "/assets/images/banner.png"
+  image: /assets/images/banner.png
 
 logo: "/assets/images/logo.png"
 
 
 gallery:
-  - # url: /assets/images/unsplash-gallery-image-1.jpg
+  - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: "/assets/images/logo.png"
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - # url: /assets/images/unsplash-gallery-image-2.jpg
+  - url: /assets/images/unsplash-gallery-image-2.jpg
     image_path:  "/assets/images/logo.png"
     alt: "placeholder image 2"
     title: "Image 2 title caption"
