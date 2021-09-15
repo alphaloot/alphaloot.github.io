@@ -19,7 +19,7 @@ gallery:
     alt: "placeholder image 2"
     title: "Image 2 title caption"
   - url: https://opensea.io/assets/0x639e32e530cc856b015560573aea34be6cc14d23/3 
-    image_path: "/assets/images/logo.png"
+    image_path: https://opensea.io/assets/0x639e32e530cc856b015560573aea34be6cc14d23/3
     alt: "placeholder image 3" 
     title: "Image 3 title caption"
 
