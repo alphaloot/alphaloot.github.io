@@ -19,4 +19,6 @@ gallery:
     alt: "placeholder image 3" 
     title: "Image 3 title caption"
 
+{% include gallery caption="" %}
+
 ---
