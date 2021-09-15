@@ -10,9 +10,7 @@ tags:
   - Post Formats
   - tiled
 
----
 
-```yaml
 gallery:
   - url: /assets/images/logo.png
     image_path: "/assets/images/logo.png"
@@ -26,10 +24,9 @@ gallery:
     image_path: "/assets/images/logo.png"
     alt: "placeholder image 3" 
     title: "Image 3 title caption"
-```
 
-```liquid 
 {% raw %}{% include gallery caption="This is a sample gallery with **Markdown support**." %}{% endraw %}
-``` 
 
 
+
+---
