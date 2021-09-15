@@ -2,8 +2,8 @@
 
 layout: single
 author_profile: true
-# header: 
-#   image: /assets/images/banner.png
+header: 
+  image: /assets/images/banner.png
 
 gallery:
   - url: /assets/images/logo.png
@@ -19,6 +19,6 @@ gallery:
     alt: "placeholder image 3" 
     title: "Image 3 title caption"
 
-{% include gallery caption="" %}
+{% include gallery caption="." %}
 
 ---
