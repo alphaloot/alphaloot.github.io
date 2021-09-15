@@ -2,15 +2,13 @@
 
 layout: single
 author_profile: true
-header: 
-  image: /assets/images/banner.png
+# header: 
+#   image: /assets/images/banner.png
 
 tags:
   - gallery
   - Post Formats
   - tiled
-
-
 gallery:
   - url: /assets/images/logo.png
     image_path: "/assets/images/logo.png"
@@ -27,5 +25,6 @@ gallery:
 
 ---
 
+Example sets: 
 
 {% include gallery caption="" %}
