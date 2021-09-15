@@ -28,4 +28,3 @@ Example sets:
 
 {% include gallery caption="" %}
 
-# ![image-center](/assets/images/examples/1.png){: .align-center}
