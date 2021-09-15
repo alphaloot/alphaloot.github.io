@@ -65,7 +65,7 @@ plugins:
 author:
   name   : "AlphaLoot"
   avatar : "assets/images/logo.png"
-  bio    : "Alpha Loot is a randomized set of alphabets generated and stored on chain."
+  bio    : "Alpha Loot is an NFT project with randomized set of alphabets generated and stored on chain. "
   links:
     - label: "OpenSea"
       icon: "fas fa-fw fa-link"
@@ -75,34 +75,34 @@ author:
       url: "https://twitter.com/alphaLootReal"
 
 
-# defaults:
-#   # _posts
-#   - scope:
-#       path: ""
-#       type: posts
-#     values:
-#       layout: single
-#       author_profile: true
-#       read_time: true
-#       comments: true
-#       share: true
-#       related: true
-#   # _pages
-#   - scope:
-#       path: "_pages"
-#       type: pages
-#     values:
-#       layout: single
-#       author_profile: true
-# 
-# 
+defaults:
+  # _posts
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: false
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
+  # # _pages
+  # - scope:
+  #     path: "_pages"
+  #     type: pages
+  #   values:
+  #     layout: single
+  #     author_profile: true
+
+
 # category_archive:
 #   type: liquid
 #   path: /categories/
 # tag_archive:
 #   type: liquid
 #   path: /tags/
-# 
+
 
 header: 
-  image: /assets/images/banner.png
+  teaser: /assets/images/banner.png
