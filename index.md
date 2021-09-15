@@ -1,13 +1,12 @@
 ---
 
-title: 'AlphaLoot'
 layout: single
 author_profile: true
 header: 
   image: /assets/images/banner.png
 
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
+  - url: /assets/images/logo.png
     image_path: "/assets/images/logo.png"
     alt: "placeholder image 1"
     title: "Image 1 title caption"
@@ -19,6 +18,5 @@ gallery:
     image_path: "/assets/images/logo.png"
     alt: "placeholder image 3" 
     title: "Image 3 title caption"
-
 
 ---
