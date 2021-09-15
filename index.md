@@ -2,8 +2,8 @@
 
 layout: single
 author_profile: true
-header: 
-  image: /assets/images/banner.png
+# header: 
+#   image: /assets/images/banner.png
 
 gallery:
   - url: /assets/images/logo.png
