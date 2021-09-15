@@ -1,9 +1,14 @@
 ---
 
 layout: splash
+title: AlphaLoot
 author_profile: true
 # header: 
 #   image: /assets/images/banner.png
+
+Alpha Loot is an NFT project with randomized set of alphabets generated and stored on chain.
+
+[Twitter](Twitter){: .btn .btn--inverse}
 
 tags:
   - gallery
